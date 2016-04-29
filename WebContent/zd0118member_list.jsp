@@ -8,6 +8,8 @@
 <title>分页查询</title>
 </head>
 <body>
+
+
 <%
          request.setCharacterEncoding("UTF-8");
         //加载驱动
